@@ -1,0 +1,17 @@
+{
+  "name": "dio_mocha_experiment",
+  "version": "1.0.0",
+  "description": "Teste com Mocha e NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mocha"
+  ],
+  "author": "andre madsen da silveira",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
